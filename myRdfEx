@@ -1,0 +1,20 @@
+Vendor 1:
+vendor1:productX	dc:title	"Cool-O-Matic" .
+vendor1:productX	retail:price	"$50.75" .
+vendor1:productX	vendor1:partno	"TTK583" .
+vendor1:productY	dc:title	"Fluffertron" .
+vendor1:productY	retail:price	"$26.50" .
+vendor1:productY	vendor1:partno	"AAL132" .
+
+Vendor 2:
+vendor2:product1	dc:title	"Can Closer" .
+vendor2:product2	dc:title	"Dust Unbuster" .
+
+Reviewer 1:
+vendor1:productX	dc:description	"This product is good buy!" .
+
+Reviewer 2:
+vendor2:product2  dc:description  "Who needs something to unbust dust? 
+                                  A dust buster would be a better idea,
+                                  and I wish they posted the price." .
+vendor2:product2  review:rating   review:Excellent .
